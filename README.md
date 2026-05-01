@@ -1,7 +1,7 @@
 # 👋🏻 Opa!
 Meu nome é Victor Botelho (ipxzfoxy), e essa é a minha conta secundária aqui no github! 📂 Você pode ver minha conta principal **[Aqui](https://github.com/ipxzfoxy)** 🔗.
 
-🇧🇷 - Tenho 15 anos, e sou desenvolvedor de software brasileiro 💻, com foco em JavaScript em Node.js.
+🇧🇷 - Tenho 15 anos, e sou desenvolvedor de software Brasileiro 💻, com foco em JavaScript em Node.js.
 
 Atualmente, estudo na Alura 🎓, realizei a maior parte de meus cursos de JavaScript lá 📚.
 Possuo um pouco de conhecimento com a linguagem de programação **Lua** , e atualmente, estou em constante aprendizado com as linguagens **C++** e **Go**.
