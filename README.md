@@ -6,9 +6,9 @@ Meu nome é Victor Botelho (ipxzfoxy), e essa é a minha conta secundária aqui 
 Atualmente, estudo na Alura 🎓, realizei a maior parte de meus cursos de JavaScript lá 📚.
 Possuo um pouco de conhecimento com a linguagem de programação **Lua** 🌙, e atualmente, estou em constante aprendizado com as linguagens **C++** ⚙️ e **Go** 🐹.
 
-Gosto muito da área da programação, e me interessei nela pois adoro entender arquiteturas de sistemas 🏗️, criar sistemas 🛠️ e criar coisas novas 💡.
+Gosto muito da área da programação, e me interessei nela pois adoro entender arquiteturas de sistemas, criar sistemas e criar coisas novas.
 
-Atualmente, possuo um projeto **Open-source** 🌍, que é um framework em crescimento chamado **Disfox** 🦊.
+Atualmente, possuo um projeto **Open-source**, que é um framework em crescimento chamado **Disfox** 🦊.
 
 - 📖 **[Acesse o site de Documentação!](https://disfox.netlify.app)**
 
