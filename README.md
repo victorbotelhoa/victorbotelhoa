@@ -2,7 +2,7 @@
 
 # 👋 Hi there
 
-I'm xFoxyyy (Victor), a Software Developer focused on understanding how technology works under the hood and creating my own solutions.
+I'm Victor Botelho, a Software Developer focused on understanding how technology works under the hood and creating my own solutions.
 
 Currently working on:
 
