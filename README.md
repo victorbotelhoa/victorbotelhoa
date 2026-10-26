@@ -47,6 +47,6 @@ ProtoIndigo — A programming language and runtime project exploring compiler an
   </a>
 </p>
 
-Victor Botelho Anunciação
+Victor Botelho A.
 
 </div>
